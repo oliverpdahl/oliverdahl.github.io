@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Power of an MVP"
-date:       2020-06-30 23:02:05 +0000
+date:       2020-06-30 19:02:06 -0400
 permalink:  the_power_of_an_mvp
 ---
 
